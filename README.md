@@ -2,7 +2,7 @@
 ## __About Me__
 
 <h2 align="center">Hey 👋,  <b>I'm Sangeetha</b></h2>
-<h3 align="center">I'm Have done my under Graduation in 2021. Currently working as UI developer and  learning Web development.
+<h3 align="center">I Have done my under Graduation in 2021. Currently working as UI developer and  learning Web development.
 </h3>
 
 <div align="left">
