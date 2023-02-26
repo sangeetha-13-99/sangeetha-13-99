@@ -1,29 +1,21 @@
 <!-- about section -->
 ## __About Me__
 
-<p  align="center">HI 👋,  <b>I'm Sangeetha</b></p>
-<p  align="center">
-    I'm Have done my under Graduation in 2021. Currently working as UI developer and  learning Web development.
+### <p  align="center">HI 👋,  <b>I'm Sangeetha</b></p>
+#### <p  align="center">I'm Have done my under Graduation in 2021. Currently working as UI developer and  learning Web development.
 </p>
-<div >
-<br>
 
+<div >
 
 + __Here are my Goals in 2023 :__
     + collaborate on front end projects.
     + contribute to open source.
     + Learn More Technologies and  Full stack Development.
 <br>
-<br>
 
 + __Few of My Blogs :__
     + [Hoisting in JS](https://doawesome.hashnode.dev/hoisting-in-javascript)
     + [Let Var const in Js](https://doawesome.hashnode.dev/all-about-lets-const-and-var-in-js)
-<br>
-<br>
-
-+ __Reach Me Out Here :__ [Here](social-links)
-<br>
 <br>
 
 </div>
